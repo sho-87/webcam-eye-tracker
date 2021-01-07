@@ -1,0 +1,18 @@
+{
+    "bs": 16,
+    "dense_nodes": 128,
+    "eye_filt_grow": 2,
+    "eye_filt_size": 5,
+    "face_filt_grow": 2,
+    "face_filt_size": 7,
+    "head_pos_filt_grow": 2,
+    "head_pos_filt_size": 3,
+    "lr": 6.376278652480636e-05,
+    "n_eye_conv": 1,
+    "n_eye_filt": 32,
+    "n_face_conv": 2,
+    "n_face_filt": 32,
+    "n_head_pos_conv": 0,
+    "n_head_pos_filt": 16,
+    "seed": 205
+}

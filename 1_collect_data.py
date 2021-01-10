@@ -70,7 +70,7 @@ predictor = Predictor(
     model_data="trained_models/eyetracking_model.pt",
     config_file="trained_models/eyetracking_config.json",
 )
-screen_errors = region_map = np.load("trained_models/eyetracking_errors.npy")
+screen_errors = np.load("trained_models/eyetracking_errors.npy")
 
 # Load array of previously collected screen regions
 try:

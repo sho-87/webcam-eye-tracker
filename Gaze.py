@@ -243,7 +243,7 @@ class Predictor:
 
 if __name__ == "__main__":
     detector = Detector(
-        output_size=128, show_stream=True, show_output=True, show_markers=True
+        output_size=512, show_stream=True, show_output=True, show_markers=False
     )
 
     while True:

@@ -124,7 +124,7 @@ with mss.mss() as sct:
                 "fps: {}".format(round(fps, 2)),
                 (0, h),
                 cv2.FONT_HERSHEY_PLAIN,
-                1,
+                2,
                 COLOURS["green"],
             )
 

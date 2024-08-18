@@ -1,6 +1,6 @@
 # Trained models
 
-`eyetracking_x.ext` are weights/config/numpy data generated from the models in this project, and used for the final eye tracker
+`eyetracking_x.ext` are weights/config/numpy data generated from the models in this project, and used for the final eye tracker. These files have been removed from the repo for bandwidth reasons, but should be generated from within the notebooks.
 
 The other data files are trained models from other projects, like the `dlib` library, and all credit goes to those creators. For example:
 
